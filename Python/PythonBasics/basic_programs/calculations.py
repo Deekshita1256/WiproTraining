@@ -1,0 +1,8 @@
+#Calculation Program
+a=int(input("Enter a number: "))
+b=int(input("Enter another number: "))
+print('sum: ',a+b)
+print('difference: ',a-b)
+print('division: ',a/b)
+print('product: ',a*b)
+print('modular division: ',a//b)
