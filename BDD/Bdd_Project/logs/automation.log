@@ -1,0 +1,53 @@
+2026-05-08 16:39:34,404 - INFO - ========================================
+2026-05-08 16:39:34,404 - INFO - AUTOMATION EXECUTION STARTED
+2026-05-08 16:39:34,405 - INFO - Deleting old allure-results folder
+2026-05-08 16:39:34,406 - INFO - Starting Behave Test Execution
+2026-05-08 16:39:34,870 - INFO - Timeout fetched : 10
+2026-05-08 16:39:34,878 - INFO - Demoblaze URL loaded
+2026-05-08 16:39:34,879 - INFO - Step : Click Sign up Menu
+2026-05-08 16:39:34,951 - INFO - Behave Execution Completed with status code : 1
+2026-05-08 16:39:34,951 - INFO - Generating Allure HTML Report
+2026-05-08 16:39:34,969 - INFO - Allure Report Generated with status code : 1
+2026-05-08 16:39:34,969 - INFO - AUTOMATION EXECUTION COMPLETED
+2026-05-08 16:39:34,969 - INFO - ========================================
+2026-05-08 16:42:37,085 - INFO - ========================================
+2026-05-08 16:42:37,085 - INFO - AUTOMATION EXECUTION STARTED
+2026-05-08 16:42:37,085 - INFO - Deleting old allure-results folder
+2026-05-08 16:42:37,087 - INFO - Starting Behave Test Execution
+2026-05-08 16:42:37,609 - INFO - Timeout fetched : 10
+2026-05-08 16:42:37,758 - INFO - Behave Execution Completed with status code : 1
+2026-05-08 16:42:37,758 - INFO - Generating Allure HTML Report
+2026-05-08 16:42:37,781 - INFO - Allure Report Generated with status code : 1
+2026-05-08 16:42:37,781 - INFO - AUTOMATION EXECUTION COMPLETED
+2026-05-08 16:42:37,781 - INFO - ========================================
+2026-05-08 16:51:23,102 - INFO - ========================================
+2026-05-08 16:51:23,102 - INFO - AUTOMATION EXECUTION STARTED
+2026-05-08 16:51:23,102 - INFO - Starting Behave Test Execution
+2026-05-08 16:51:23,439 - INFO - Behave Execution Completed with status code : 2
+2026-05-08 16:51:23,439 - INFO - Generating Allure HTML Report
+2026-05-08 16:51:23,472 - INFO - Allure Report Generated with status code : 1
+2026-05-08 16:51:23,473 - INFO - AUTOMATION EXECUTION COMPLETED
+2026-05-08 16:51:23,473 - INFO - ========================================
+2026-05-08 16:52:54,483 - INFO - ========================================
+2026-05-08 16:52:54,483 - INFO - AUTOMATION EXECUTION STARTED
+2026-05-08 16:52:54,483 - INFO - Starting Behave Test Execution
+2026-05-08 16:52:55,861 - INFO - Timeout fetched : 10
+2026-05-08 16:52:56,024 - INFO - Demoblaze URL loaded
+2026-05-08 16:52:56,038 - INFO - Step : Click Sign up Menu
+2026-05-08 16:52:57,438 - INFO - Behave Execution Completed with status code : 1
+2026-05-08 16:52:57,439 - INFO - Generating Allure HTML Report
+2026-05-08 16:52:57,476 - INFO - Allure Report Generated with status code : 1
+2026-05-08 16:52:57,476 - INFO - AUTOMATION EXECUTION COMPLETED
+2026-05-08 16:52:57,476 - INFO - ========================================
+2026-05-08 17:05:03,963 - INFO - ========================================
+2026-05-08 17:05:03,963 - INFO - AUTOMATION EXECUTION STARTED
+2026-05-08 17:05:03,963 - INFO - Deleting old allure-results folder
+2026-05-08 17:05:03,964 - INFO - Starting Behave Test Execution
+2026-05-08 17:05:04,438 - INFO - Timeout fetched : 10
+2026-05-08 17:05:04,447 - INFO - Demoblaze URL loaded
+2026-05-08 17:05:04,449 - INFO - Step : Click Sign up Menu
+2026-05-08 17:05:04,515 - INFO - Behave Execution Completed with status code : 1
+2026-05-08 17:05:04,515 - INFO - Generating Allure HTML Report
+2026-05-08 17:05:04,534 - INFO - Allure Report Generated with status code : 1
+2026-05-08 17:05:04,534 - INFO - AUTOMATION EXECUTION COMPLETED
+2026-05-08 17:05:04,534 - INFO - ========================================

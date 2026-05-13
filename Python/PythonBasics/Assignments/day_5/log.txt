@@ -1,0 +1,3 @@
+Order for 5 Laptops is placed
+Order for 3 Desktops is placed
+The order for 5 Laptops and 3 Desktops is received
