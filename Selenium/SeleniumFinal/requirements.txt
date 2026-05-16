@@ -4,3 +4,4 @@ pytest
 pytest-ordering
 openpyxl
 allure-pytest
+pytest-order

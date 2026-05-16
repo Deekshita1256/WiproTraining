@@ -1,7 +1,9 @@
 import csv
 import os
 
+
 class CSVReader:
+
     @staticmethod
     def read_csv(file_name):
         data = []
